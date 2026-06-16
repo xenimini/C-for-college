@@ -1,0 +1,16 @@
+C:\Users\Ксения Адаменко\source\repos\ColorChangingLabel\ColorChangingLabel\obj\Debug\net10.0-windows\ColorChangingLabel.Form1.resources
+C:\Users\Ксения Адаменко\source\repos\ColorChangingLabel\ColorChangingLabel\obj\Debug\net10.0-windows\ColorChangingLabel.csproj.GenerateResource.cache
+C:\Users\Ксения Адаменко\source\repos\ColorChangingLabel\ColorChangingLabel\obj\Debug\net10.0-windows\ColorChangingLabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ксения Адаменко\source\repos\ColorChangingLabel\ColorChangingLabel\obj\Debug\net10.0-windows\ColorChangingLabel.AssemblyInfoInputs.cache
+C:\Users\Ксения Адаменко\source\repos\ColorChangingLabel\ColorChangingLabel\obj\Debug\net10.0-windows\ColorChangingLabel.AssemblyInfo.cs
+C:\Users\Ксения Адаменко\source\repos\ColorChangingLabel\ColorChangingLabel\obj\Debug\net10.0-windows\ColorChangingLabel.csproj.CoreCompileInputs.cache
+C:\Users\Ксения Адаменко\source\repos\ColorChangingLabel\ColorChangingLabel\bin\Debug\net10.0-windows\ColorChangingLabel.exe
+C:\Users\Ксения Адаменко\source\repos\ColorChangingLabel\ColorChangingLabel\bin\Debug\net10.0-windows\ColorChangingLabel.deps.json
+C:\Users\Ксения Адаменко\source\repos\ColorChangingLabel\ColorChangingLabel\bin\Debug\net10.0-windows\ColorChangingLabel.runtimeconfig.json
+C:\Users\Ксения Адаменко\source\repos\ColorChangingLabel\ColorChangingLabel\bin\Debug\net10.0-windows\ColorChangingLabel.dll
+C:\Users\Ксения Адаменко\source\repos\ColorChangingLabel\ColorChangingLabel\bin\Debug\net10.0-windows\ColorChangingLabel.pdb
+C:\Users\Ксения Адаменко\source\repos\ColorChangingLabel\ColorChangingLabel\obj\Debug\net10.0-windows\ColorChangingLabel.dll
+C:\Users\Ксения Адаменко\source\repos\ColorChangingLabel\ColorChangingLabel\obj\Debug\net10.0-windows\refint\ColorChangingLabel.dll
+C:\Users\Ксения Адаменко\source\repos\ColorChangingLabel\ColorChangingLabel\obj\Debug\net10.0-windows\ColorChangingLabel.pdb
+C:\Users\Ксения Адаменко\source\repos\ColorChangingLabel\ColorChangingLabel\obj\Debug\net10.0-windows\ColorChangingLabel.genruntimeconfig.cache
+C:\Users\Ксения Адаменко\source\repos\ColorChangingLabel\ColorChangingLabel\obj\Debug\net10.0-windows\ref\ColorChangingLabel.dll

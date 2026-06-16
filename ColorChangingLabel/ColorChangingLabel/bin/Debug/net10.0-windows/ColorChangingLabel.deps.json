@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ColorChangingLabel/1.0.0": {
+        "runtime": {
+          "ColorChangingLabel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ColorChangingLabel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
